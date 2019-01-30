@@ -1,8 +1,4 @@
-package com.neeleshritu.fightforhunger;
-
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.widget.Toast;
+package com.neeleshritu.fightforhunger
 
 public class donerlocActivity extends AppCompatActivity {
 
